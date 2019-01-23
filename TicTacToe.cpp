@@ -39,7 +39,6 @@ int main()
 
 		OutputArray();
 		OutputCheck();
-
 	} while (flag_space != 0 || win1 != 0 || win2 != 0);
 
 	if (win1 == 0)
